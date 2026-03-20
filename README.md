@@ -113,9 +113,9 @@
 
 <div align="center">
 
-![lte_z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4)
+[![lte_z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4&border_color=313244)](https://github.com/lte-z)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&border_color=313244)](https://github.com/lte-z)
 
 </div>
 
