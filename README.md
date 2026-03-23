@@ -17,18 +17,18 @@
 <br>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr valign="top">
-<td width="50%" align="center" valign="top" style="border: none;">
-<a href="https://github.com/lte-z">
-<img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=7EB3DA&text_color=D8DEE9" alt="lte_z's github stats" />
-</a>
-</td>
-<td width="50%" align="center" valign="top" style="border: none;">
-<a href="https://github.com/lte-z">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=D8DEE9" alt="Top Languages" />
-</a>
-</td>
-</tr>
+  <tr valign="top">
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/lte-z">
+        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9&count_private=true" alt="lte_z's github stats" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/lte-z">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=88C0D0&text_color=D8DEE9" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
