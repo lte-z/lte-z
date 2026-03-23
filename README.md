@@ -23,6 +23,6 @@
 
 <div align="center">
 
-<img src="assets/logo.svg" alt="小Z工作室#2026" width="200">
+<img src="assets/logo.svg" alt="小Z工作室#2026" width="400">
 
 </div>
