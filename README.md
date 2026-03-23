@@ -5,7 +5,11 @@
 </div>
 
 <p align="center">
-  <kbd>Software Engineering</kbd> • <kbd>Independent Dev</kbd> • <kbd>Artist</kbd>
+  <img src="https://img.shields.io/badge/Software_Engineering-Student-6699CC?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Independent-Developer-4A76A8?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Personal-Artist-3D5A80?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 </p>
 
 <br>
