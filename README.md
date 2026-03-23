@@ -4,12 +4,18 @@
 
 </div>
 
-<br>
-
 <p align="center">
-  <span style="color: #6699CC;">✦ <b>Software Engineering Student</b></span> &nbsp;&nbsp;
-  <span style="color: #88C0D0;">✦ <b>Independent Developer</b></span> &nbsp;&nbsp;
-  <span style="color: #B48EAD;">✦ <b>Personal Artist</b></span>
+  <a href="#-software-engineering-student">
+    <ins><b>🎓 Software Engineering Student</b></ins>
+  </a>
+  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+  <a href="#-independent-developer">
+    <ins><b>🚀 Independent Developer</b></ins>
+  </a>
+  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+  <a href="#-personal-artist">
+    <ins><b>🖋️ Personal Artist</b></ins>
+  </a>
 </p>
 
 <br>
