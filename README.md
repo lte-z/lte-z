@@ -4,20 +4,6 @@
 
 </div>
 
-<p align="center">
-  <code style="color: #FF7070;">✦</code> 
-  <span style="color: #6699CC;"><b>Software Engineering Student</b></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code style="color: #FFD966;">✦</code> 
-  <span style="color: #88C0D0;"><b>Independent Developer</b></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code style="color: #A0E7E5;">✦</code> 
-  <span style="color: #B48EAD;"><b>Personal Artist</b></span>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/k69/k69/master/horizontal-line.gif" width="600px">
-</p>
-
 <br>
 
 👋 Hey! I'm a Software Engineering student at **BUPT** who somehow ended up doing everything — from building games 🎮 and simulators 🔬 to tinkering with computer vision 👁️ and embedded systems 🔌.
