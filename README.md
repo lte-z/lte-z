@@ -5,11 +5,42 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-Student-6699CC?style=flat-square&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Independent-Developer-4A76A8?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Personal-Artist-3D5A80?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <svg width="650" height="50" viewBox="0 0 650 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+      <linearGradient id="rainbow_gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FFADAD" /> <stop offset="20%" stop-color="#FFD6A5" /> <stop offset="40%" stop-color="#FDFFB6" /> <stop offset="60%" stop-color="#CAFFBF" /> <stop offset="80%" stop-color="#9BF6FF" /> <stop offset="100%" stop-color="#FFC6FF" /> </linearGradient>
+
+      <filter id="neon_glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+
+    <g transform="translate(10, 5)">
+      <rect x="0" y="0" width="630" height="36" rx="18" stroke="url(#rainbow_gradient)" stroke-width="2" filter="url(#neon_glow)" fill="none" opacity="0.8" />
+
+      <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444444">
+        <text x="30" y="23">
+          <tspan fill="#FF8A8A">✦</tspan> Software Engineering Student
+        </text>
+
+        <text x="260" y="23" fill="#DDDDDD">|</text>
+
+        <text x="290" y="23">
+          <tspan fill="#A0E7E5">✦</tspan> Independent Developer
+        </text>
+
+        <text x="495" y="23" fill="#DDDDDD">|</text>
+
+        <text x="520" y="23">
+          <tspan fill="#FFA6FA">✦</tspan> Personal Artist
+        </text>
+      </g>
+    </g>
+  </svg>
 </p>
 
 <br>
