@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="#-software-engineering-student">
-    <ins><b>🎓 Software Engineering Student</b></ins>
+    <b>🎓 Software Engineering Student</b>
   </a>
-  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="#-independent-developer">
-    <ins><b>🚀 Independent Developer</b></ins>
+    <b>🚀 Independent Developer</b>
   </a>
-  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="#-personal-artist">
-    <ins><b>🖋️ Personal Artist</b></ins>
+    <b>🖋️ Personal Artist</b>
   </a>
 </p>
 
@@ -34,12 +34,12 @@
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&animations=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=444444&count_private=true" alt="lte_z's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=444444&count_private=true" alt="lte_z's github stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&animations=true&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=444444" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=444444" alt="Top Languages" />
       </a>
     </td>
   </tr>
