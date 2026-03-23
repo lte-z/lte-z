@@ -16,8 +16,16 @@
 
 <br>
 
-| <a href="https://github.com/lte-z"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=1E2530&title_color=6699CC&icon_color=7EB3DA&text_color=D8DEE9&border_color=2D3846" alt="lte_z's github stats" /></a> | <a href="https://github.com/lte-z"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=1E2530&title_color=6699CC&text_color=D8DEE9&border_color=2D3846" alt="Top Languages" /></a> |
-| ------------- | ------------- |
+<table>
+<tr valign="top">
+<td width="50%">
+<a href="https://github.com/lte-z"><img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=1E2530&title_color=6699CC&icon_color=7EB3DA&text_color=D8DEE9&border_color=2D3846" alt="lte_z's github stats" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/lte-z"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=1E2530&title_color=6699CC&text_color=D8DEE9&border_color=2D3846" alt="Top Languages" /></a>
+</td>
+</tr>
+</table>
 
 <br>
 
