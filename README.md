@@ -5,17 +5,11 @@
 </div>
 
 <p align="center">
-  <a href="#-software-engineering-student">
-    <b>🎓 Software Engineering Student</b>
-  </a>
+  <b>🎓 Software Engineering Student</b>
   &nbsp;&nbsp;
-  <a href="#-independent-developer">
-    <b>🚀 Independent Developer</b>
-  </a>
+  <b>🚀 Independent Developer</b>
   &nbsp;&nbsp;
-  <a href="#-personal-artist">
-    <b>🖋️ Personal Artist</b>
-  </a>
+  <b>🖋️ Personal Artist</b>
 </p>
 
 <br>
