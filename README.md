@@ -6,6 +6,14 @@
 
 <br>
 
+<p align="center">
+  <span style="color: #6699CC;">✦ <b>Software Engineering Student</b></span> &nbsp;&nbsp;
+  <span style="color: #88C0D0;">✦ <b>Independent Developer</b></span> &nbsp;&nbsp;
+  <span style="color: #B48EAD;">✦ <b>Personal Artist</b></span>
+</p>
+
+<br>
+
 👋 Hey! I'm a Software Engineering student at **BUPT** who somehow ended up doing everything — from building games 🎮 and simulators 🔬 to tinkering with computer vision 👁️ and embedded systems 🔌.
 
 💻 I write code in **C++**, **Python**, and **JavaScript**, and I'm equally comfortable debugging a segfault as I am styling a Vue component. Currently exploring the world of full-stack development and seeing where it takes me.
@@ -20,12 +28,12 @@
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=444444&count_private=true" alt="lte_z's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&animations=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=444444&count_private=true" alt="lte_z's github stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=444444" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&animations=true&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=444444" alt="Top Languages" />
       </a>
     </td>
   </tr>
