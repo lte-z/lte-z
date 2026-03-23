@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <kbd>Software Engineering</kbd> • <kbd>Independent Dev</kbd> • <kbd>Artist</kbd>
+</p>
+
 <br>
 
 👋 Hey! I'm a Software Engineering student at **BUPT** who somehow ended up doing everything — from building games 🎮 and simulators 🔬 to tinkering with computer vision 👁️ and embedded systems 🔌.
@@ -20,12 +24,12 @@
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=88C0D0&icon_color=88C0D0&text_color=4C566A&count_private=true" alt="lte_z's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=444444&count_private=true" alt="lte_z's github stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=88C0D0&text_color=4C566A" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=444444" alt="Top Languages" />
       </a>
     </td>
   </tr>
