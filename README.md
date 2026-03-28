@@ -28,7 +28,7 @@
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="lte_z's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="Github Stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -43,6 +43,6 @@
 
 <div align="center">
 
-<img src="assets/logo.svg" alt="小Z工作室#2026" width="400">
+<img src="assets/logo.svg" alt="LOGO" width="400">
 
 </div>
