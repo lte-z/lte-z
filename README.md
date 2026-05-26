@@ -28,12 +28,12 @@
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="Github Stats" />
+        <img src="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="Github Stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=273940" alt="Top Languages" />
+        <img src="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=273940" alt="Top Languages" />
       </a>
     </td>
   </tr>
