@@ -24,7 +24,7 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
   <tr valign="top">
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z">
