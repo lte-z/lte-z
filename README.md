@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kiwi+Maru&size=24&duration=2000&pause=1500&color=6699CC&background=1E253000&center=true&vCenter=true&width=500&height=60&lines=%E5%B9%B8%E4%BC%9A%EF%BC%8C%E6%88%91%E6%98%AF+lte_z%E3%80%82;Hi%2C+I'm+lte_z.+Let's+build.;lte_z+%E3%81%A7%E3%81%99%E3%80%82%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%81%97%E3%81%AA%E3%81%AB%E3%80%82;Enchant%C3%A9%2C+lte_z+ici.;Moin!+lte_z+hier.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kiwi+Maru&size=24&duration=2000&pause=1500&color=6699CC&background=1E253000&center=true&vCenter=true&width=500&height=60&lines=%E5%B9%B8%E4%BC%9A%EF%BC%8C%E6%88%91%E6%98%AF+lte_z%E3%80%82;Hi%2C+I'm+lte_z.+Let's+build.;lte_z+%E3%81%A7%E3%81%99%E3%80%82%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%81%97%E3%81%AA%E3%81%AB%E3%80%82;Enchant%C3%A9%2C+lte_z+ici.;Moin!+lte_z+hier.)
 
 </div>
 
@@ -27,13 +27,13 @@
 <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
   <tr valign="top">
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/lte-z">
-        <img src="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="Github Stats" />
+      <a href="https://github.com/lte-z?tab=repositories">
+        <img src="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&text_color=273940&count_private=true" alt="GitHub Stats">
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/lte-z">
-        <img src="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=273940" alt="Top Languages" />
+      <a href="https://github.com/lte-z?tab=repositories">
+        <img src="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=273940" alt="Top Languages">
       </a>
     </td>
   </tr>
@@ -43,6 +43,8 @@
 
 <div align="center">
 
-<img src="assets/logo.svg" alt="LOGO" width="400">
+<a href="https://ltez.wordpress.com/">
+  <img src="assets/logo.svg" alt="LOGO" width="400">
+</a>
 
 </div>
