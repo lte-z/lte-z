@@ -14,13 +14,13 @@
 
 <br>
 
-👋 Hey! I'm a Software Engineering student at **BUPT** who somehow ended up doing everything — from building games 🎮 and simulators 🔬 to tinkering with computer vision 👁️ and embedded systems 🔌.
+👋 Hey! I'm a Software Engineering student at **BUPT** who keeps chasing ideas through code — from shaping games 🎮 and desktop apps 🪟 to building simulators 🔬 and developer tools 🛠️, following curiosity wherever it leads.
 
-💻 I write code in **C++**, **Python**, and **JavaScript**, and I'm equally comfortable debugging a segfault as I am styling a Vue component. Currently exploring the world of full-stack development and seeing where it takes me.
+💻 I write code in **C++** and **Python**, with recent detours into **TypeScript** and **C#/.NET**. Open-source work and explorations in frontier AI research have drawn me toward a question I keep coming back to: how product-minded software evolves in the age of agentic systems.
 
-🎨 When I'm not coding, I'm probably writing ✍️, taking photos 📷, or pretending I know what I'm doing in Photoshop or Illustrator. I run a one-person studio — it's been around since I was a kid, and I'm not giving it up now.
+🎨 Outside the terminal, I'm probably writing ✍️, taking photos 📷, or crafting visual pieces with Photoshop and Illustrator. I run a one-person studio — it's been around since I was a kid, and I'm not giving it up now.
 
-🔧 Always curious, always tinkering.
+🔧 Stay playful. Stay precise.
 
 <br>
 
