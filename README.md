@@ -29,16 +29,16 @@
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z?tab=repositories">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&ring_color=6699CC&text_color=D1D9E0&include_all_commits=true&hide=contribs&show=all_time_contribs&contribs_include_own_repos=true">
-          <img src="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&ring_color=6699CC&text_color=24292F&include_all_commits=true&hide=contribs&show=all_time_contribs&contribs_include_own_repos=true" alt="GitHub Stats">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&ring_color=6699CC&text_color=9198A1&include_all_commits=true&hide=contribs&show=all_time_contribs&contribs_include_own_repos=true">
+          <img src="https://ltez-stats.vercel.app/api?username=lte-z&show_icons=true&hide_border=true&bg_color=00000000&title_color=6699CC&icon_color=6699CC&ring_color=6699CC&text_color=59636E&include_all_commits=true&hide=contribs&show=all_time_contribs&contribs_include_own_repos=true" alt="GitHub Stats">
         </picture>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/lte-z?tab=repositories">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=D1D9E0">
-          <img src="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=24292F" alt="Top Languages">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=9198A1">
+          <img src="https://ltez-stats.vercel.app/api/top-langs/?username=lte-z&layout=compact&hide_border=true&bg_color=00000000&title_color=6699CC&text_color=59636E" alt="Top Languages">
         </picture>
       </a>
     </td>
